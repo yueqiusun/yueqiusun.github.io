@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Yueqiu Sun"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Graduate researcher, interested in Machine Learning and Deep Learning"
+  location         : "New York"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "ys3202@nyu.edu"
   uri              :
   bitbucket        :
   codepen          :
