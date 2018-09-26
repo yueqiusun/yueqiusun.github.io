@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Center of Data Science department at NYU, working with Prof. Anli Liu, Prof. Shirley Ho, and postdoc fellow Xiaojing Wu. My research interests include Machine Learning, Computer Vision, and Data Mining. Specially, I am interested in conduct interdisciplinary research across Healthcare, Astrology and signal processing using Machine Learning and Deep Learning.
+I am a graduate student in the Center of Data Science department at NYU, working with Prof. Anli Liu, Prof. Shirley Ho, and postdoc fellow Xiaojing Wu. My research interests include Machine Learning, Computer Vision, and Data Mining. Specially, I am interested in conducting interdisciplinary research across Healthcare, Astrology and signal processing using Machine Learning and Deep Learning.
 
 
 I am a graduate student in the GRAIL lab of the Computer Science and Engineering Department at the University of Washington, working with Prof. Steven Seitz and Prof. Jason Lawrence. My research interests include virtual/augmented reality, computer vision and graphics. My focus now is more in virtual/augmented reality which combines vision and graphics in an interested way while I did research on stereo matching in BCMI lab at Shanghai Jiao Tong University with advisor Prof. Hongtao Lu and on deep learning in National Univerity of Singapore with advisor Prof. Shuicheng Yan as an undergrad.
