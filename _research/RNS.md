@@ -1,7 +1,6 @@
 ---
 title: "Optimization-of-Responsive-Neurostimulation-RNS-Therapy-through-Data-Mining-Approaches"
 collection: research
-type: 
 permalink: /teaching/RNS
 venue: "New York University, Department of Neurology"
 date: 2018-06-01 - present
