@@ -1,11 +1,13 @@
 ---
 title: "Full Hydrodynamic Simulation Prediction from Dark Matter Simulation"
-collection: research
+collection: 'research'
 permalink: /research/dark
 venue: "Flatiron Institute"
 date: 2018-09-10 - present
 location: "New York, US"
 ---
+
+[Porject Proposal ppt](https://drive.google.com/open?id=15F9UssTuPMLMevCMA6Pni_shcFjtT2mf)
 
 The project is one of the most challenging and interesting project in the interface of physics and machine learning. Physicists have spend ages in accumulating "physical intuitions" through their training. Machine Learning has recently be touted to be able to probably learn "science" without the guide of humans or scientists for scientific problems.
 
@@ -30,10 +32,10 @@ The data will be real and complex numbers as a function of frequency (radio freq
 The size of the dataset can range from a few TB to a few PB (depending on how much we need to generate realistic mock datasets).
 
 
-We can start with a smaller dataset that is completely public, and go towards a larger dataset if necessary. Flatiron Institute will provide access to the dataset.
+Diary
+======
+October: 
+We sliced the data into 32 x 32 x 32 pieces of cube of size 32 x 32 x 32 in which each pixel contained the count(of mass). Built a Unet model(no skip connection for now). I built a training module, and train the model. Weird stuff happened. While training, the test loss didn't change at all and were very small at the beginning. Turns out the target data(the count of mass in hydrodynamic distribution has large propotion of zeros, and some of the target cube is nothing but zeros)
 
-
-We have access to a lot more data and it is actively being collected by large telescopes around the world in various deserts and high mountains.
-
-
-The students involved do not need to collect data, but probably need to model the data to the extent that GANs will be learning from the data. NDA is not required.
+September:
+Understood the problem that is to map dark matter distribution to hydrodynamic distribution. 
