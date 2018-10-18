@@ -31,11 +31,3 @@ The data will be real and complex numbers as a function of frequency (radio freq
 
 The size of the dataset can range from a few TB to a few PB (depending on how much we need to generate realistic mock datasets).
 
-
-Diary
-======
-October: 
-We sliced the data into 32 x 32 x 32 pieces of cube of size 32 x 32 x 32 in which each pixel contained the count(of mass). Built a Unet model(no skip connection for now). I built a training module, and train the model. Weird stuff happened. While training, the test loss didn't change at all and were very small at the beginning. Turns out the target data(the count of mass in hydrodynamic distribution has large propotion of zeros, and some of the target cube is nothing but zeros)
-
-September:
-Understood the problem that is to map dark matter distribution to hydrodynamic distribution. 

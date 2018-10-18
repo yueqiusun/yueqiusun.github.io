@@ -12,20 +12,6 @@ location: "New York, US"
 
 
 
-Methods
-======
-
-
-
-
-Diary
-======
-October: 
-August:
-Built
-July: 
-Got familer with the problem setting, formulate the methodology, read in EEG data, calculate relative band powers (delta, theta, alpha, beta, lowgamma, highgamma, all) of EEG signals. Identify scheduled EEG using Z scores(failed), flatline method(identify the start of the stimulation by the presense of a flat line in EEG segments) (partially failed, too few data left). The solution we used at that time was to regard the EEG segments in certain time intervals as scheduled EEGs.(not perfect, will contain false positive, but that's the best we can do at that time. Got the labeled data later).
-
 
 Backgroung
 ======
