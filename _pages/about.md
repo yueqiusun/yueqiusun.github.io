@@ -9,6 +9,7 @@ redirect_from:
 ---
 I am a graduate student in the Center of Data Science department at NYU, working with Prof. Anli Liu, Prof. Shirley Ho, and postdoc fellow Xiaojing Wu. My research interests include Machine Learning, Computer Vision, Natural Language Processing and Data Mining. Specially, I am interested in conducting interdisciplinary research across Healthcare, Astrology and signal processing using Machine Learning and Deep Learning. What motivates me to do research is my eager to explore and learn.
 
+<embed src-“./files/Yueqiu Sun CV” width=”600” height=”1000”> </embed>
 <!---
 
 
