@@ -9,9 +9,7 @@ redirect_from:
 ---
 I am a graduate student in the Center of Data Science department at NYU, working with Prof. Anli Liu, Prof. Shirley Ho, and postdoc fellow Xiaojing Wu. My research interests include Machine Learning, Computer Vision, Natural Language Processing and Data Mining. Specially, I am interested in conducting interdisciplinary research across Healthcare, Astrology and signal processing using Machine Learning and Deep Learning. What motivates me to do research is my eager to explore and learn.
 
-<embed src-“./files/Yueqiu Sun CV” width=”600” height=”1000”> </embed>
-insert img:
-excerpt: "Short description of portfolio item number 2 <br/><img src='/files/Yueqiu Sun CV'>"
+
 <!---
 
 
@@ -19,6 +17,6 @@ I am a graduate student in the GRAIL lab of the Computer Science and Engineering
 I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate theoretical models and simulation of neural networks to reveal principles of brain computation. As a curious person I am always eager to discover about the wonders of Nature and human societies, and I am grateful to learn about it with the best experts through collaborative research research. On the long term, I hope that my research will contribute to clinical progress and the development of machine intelligence that respect human morals.
 
 Before starting my PhD, I graduated from a competitve double-master of Applied Mathematics and Machine Learning (at ENSTA Paristech and ENS Paris-Saclay). In this context I completed various lab rotations, one of which was driven by my passion for music, and it got me to study Psychoacoustics and Neuroscience. Ever since, I questioned myself about the neural mechanisms behind thoughts and perceptions.
+[CV](http://yueqiusun.github.io/files/Yueqiu%20Sun%20CV.pdf)
 
 -->
-[CV](http://yueqiusun.github.io/files/Yueqiu%20Sun%20CV.pdf)

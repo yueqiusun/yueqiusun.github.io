@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-excerpt: "Short description of portfolio item number 2 <br/><img src='/files/Yueqiu Sun CV.png'>"
+<br/><img src='/files/Yueqiu Sun CV.png'>"
