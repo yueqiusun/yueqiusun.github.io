@@ -9,10 +9,10 @@ main:
   - title: "Research"
     url: /research/    
     
-  - title: "Projects"
-    url: /projects/  
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  # - title: "Projects"
+  #   url: /projects/  
+  - title: "Portfolio"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
