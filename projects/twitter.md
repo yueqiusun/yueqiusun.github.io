@@ -1,6 +1,6 @@
 ---
 title: "Twitter Hate and Offensive Language Detection"
-type: "research"
+type: "projects"
 permalink: /projects/twitter
 venue: "NYU, Center for Data Science"
 date: 2012-03-01
