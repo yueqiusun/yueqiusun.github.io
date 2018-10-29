@@ -1,6 +1,6 @@
 ---
 title: "Null and Outlier Detection in Large Datasets"
-<br/><img src='/files/images/out1.png'>
+excerpt: "<br/><img src='/files/images/out1.png'>"
 collection: portfolio
 ---
 
