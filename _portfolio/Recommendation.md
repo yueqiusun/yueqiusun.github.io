@@ -1,6 +1,5 @@
 ---
 title: "Recommendation System for Implicit Feedback Dataset"
-excerpt: "<br/><img src='/files/images/out1.png' width="50"/> "
 collection: portfolio
 ---
 
