@@ -1,6 +1,6 @@
 ---
 title: "Automated Hate Speech and Oﬀensive Language Detection"
-excerpt: ""
+<br/><img src='/files/images/twitter_hate.jpg'>
 collection: portfolio
 ---
 
