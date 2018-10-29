@@ -44,7 +44,7 @@ Setting the class weight to be balanced increased the price to mis-classify twit
 
 We implemented grid search to optimize the hyper-parameter like kernel(rbf or sigmoid or linear or poly), regulation type(L1 or L2), C, and class weight(balanced or none). And we used iteration to select the features that could optimize the model performance from the features set(n-grams: 1 gram, 2 gram, modes: binary, count, frequency, tﬁdf) We tested each model using 5-fold cross-validation, holding out 10% of the samples for evaluation to prevent over-ﬁtting. After using grid search to iterating hyper-parameters and diﬀerent sets of features, we found that the model with linear kernel, L2 regulation, C=1, balanced class weight and uni-gram and binary features performed better than the models with other combinations of hyper-parameters and features.
 
-excerpt: "data" <br/><img src='/files/images/confusionmatrix1.png'>"
+excerpt: "data" <br/><img src='/files/images/confusion matrix1.png'>"
 
 we applied our classiﬁcation model to real world data by drawing thousands of tweets through Twitter API. We successfully filtered out over 95% of the benign class and retrieve over 60% of the tweets that contain hate language.
 
