@@ -1,6 +1,6 @@
 ---
 title: "Automated Hate Speech and Oﬀensive Language Detection"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/files/images/twitter_hate.jpg'>"
+excerpt: "<br/><img src='/files/images/twitter_hate.jpg'>"
 collection: portfolio
 ---
 
@@ -15,7 +15,7 @@ Summary
 
 Objective and Data
 ======
-We try to build a classifier to help administration to monitor and filter out tweets with extreme language more efficiently. We train the classifier based on the labeled data on the Github. The data contains 24000 tweets, each labeled by 6 humans. The label is either "the tweet contain hate language" or "the tweet don't contain hate language but contain offensive language" or "the tweet contain neither". 
+It is an increasingly important problem that hate speech appear more and more often in tweets. We try to build a classifier to help administration to monitor and filter out tweets with extreme language more efficiently. We train the classifier based on the labeled data on the Github. The data contains 24000 tweets, each labeled by 6 humans. The label is either "the tweet contain hate language" or "the tweet don't contain hate language but contain offensive language" or "the tweet contain neither". 
 
 "Data" <br/><img src='/files/images/data1.png'>
 
@@ -31,6 +31,7 @@ In the data preparation part, we
 • Remove words beginning with Mention (@)
 
 • Convert contractions to formal writing based on a dictionary we build, and then remove punctuations
+
 
 • Remove words with length less than 2 and words that are not alphabetic
 
