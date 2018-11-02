@@ -1,6 +1,6 @@
 ---
 title: "Neural Collaborative Filtering for Steam_Dataset"
-excerpt: "<br/><img src='/files/images/Steam.jpg'>"
+excerpt: "<br/><img src='/files/images/steam.jpg'>"
 collection: portfolio
 ---
 
