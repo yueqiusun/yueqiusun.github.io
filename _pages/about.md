@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student in the Center of Data Science department at NYU, working with Prof. Anli Liu, Prof. Shirley Ho, and postdoc fellow Xiaojing Wu. My research interests include Machine Learning, Computer Vision, Natural Language Processing and Data Mining. 
+I am a graduate student in the Center for Data Science department at NYU, working with Prof. Anli Liu, Prof. Shirley Ho, and postdoc fellow Xiaojing Wu. My research interests include Machine Learning, Computer Vision, Natural Language Processing and Data Mining. 
 
-Five years of study in Statistics and Data Science has given me a solid understanding in Statistical Machine Learning, Bayesian Inference, Deep Learning and Data Mining. What motivates me to move forward is my eager to constantly explore and learn. I hope to continue learning and exploring and contribute to the development of machine intelligence. 
+Five years of study in Statistics and Data Science have given me a solid understanding in Statistical Machine Learning, Bayesian Inference, Deep Learning and Data Mining. What motivates me to move forward is my eager to constantly explore and learn. I hope to continue learning and exploring and contribute to the development of machine intelligence. 
 
 
 <!---

@@ -1,10 +1,10 @@
 ---
-title: "Neural Collaborative Filtering for Steam_Dataset"
+title: "Neural Collaborative Filtering for Steam Dataset"
 excerpt: "<br/><img src='/files/images/steam.jpg'>"
 collection: portfolio
 ---
 
-[Neural Collaborative Filtering for Steam_Dataset](Neural_Collaborative_Filtering_for_Steam_Dataset.pdf)
+[Neural Collaborative Filtering for Steam_Dataset](/files/Neural_Collaborative_Filtering_for_Steam_Dataset.pdf)
 
 
 
