@@ -1,5 +1,5 @@
 ---
-title: "Machine learning to predict clinical outcomes from RNS background ECoG
+title: "Machine learning to predict clinical outcomes from RNS background ECoG(ongoing)
 "
 collection: 'research'
 permalink: /research/RNS
@@ -9,9 +9,12 @@ location: "New York, US"
 ---
 
 
-[Porject Proposal ppt](/files/Machine learning to predict clinical outcomes from RNS background ECoG)
+[Machine learning to predict clinical outcomes from RNS background ECoG](/files/Machine learning to predict clinical outcomes from RNS background ECoG)
 
-"Optimization of Responsive Neurostimulation (RNS)" is a project that (aims to provide data-driven guidence to the physicians who examine patients with RNS devices) or (propose to help explore the optimzal settings for the electrical stimulation of the RNS device). We built a reliable classifier that classifier clinical performance based on available background EEG data and examine the neural science intuition behind the machine learning model. Also, we investigate how sleep influence the predicting accuracy of the classifier.
+"Optimization of Responsive Neurostimulation (RNS)" is a project that aims to provide data-driven guidence to the physicians who examine patients with RNS devices. Specifically, the results of the project will help physicians better understand the patients’ clinical conditions and make better parameter adjustment based on the prediction. 
+
+We built a reliable classifier that classify clinical performance based on available background EEG data and examined the neural science intuition behind the machine learning model. We discovered that Sleep ECoG achieved better classification performance when compared to awake ECoG. The reason may be that sleep EcoG shares stronger correlations with ictal activity. We also found that background EEG appears to be equally valuable as pre-ictal EEG in predicting clinical outcome.
+
 
 
 
