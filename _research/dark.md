@@ -12,7 +12,7 @@ location: "New York, US"
 
 Method
 ======
-Designed 3D Convolution Neural Nets with inception modules with different architectures and 3D R2Unet to predict parameter for Full Hydrodynamic Simulation based on the simulation on dark matter density distribution at a certain redshift (age). 
+Designed 3D Convolution Neural Nets with inception modules with different architectures and 3D R2Unet to predict parameters for Full Hydrodynamic Simulation based on the simulation on dark matter density distribution at a certain redshift (age). 
 Background
 ======
 The project is one of the most challenging and interesting project in the interface of physics and machine learning. Physicists have spend ages in accumulating "physical intuitions" through their training. Machine Learning has recently be touted to be able to probably learn "science" without the guide of humans or scientists for scientific problems.
