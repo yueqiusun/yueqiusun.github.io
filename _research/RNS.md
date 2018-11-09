@@ -10,7 +10,7 @@ location: "New York, US"
 ---
 
 
-[Machine learning to predict clinical outcomes from RNS background ECoG](/files/Machine learning to predict clinical outcomes from RNS background ECoG)
+[Machine learning to predict clinical outcomes from RNS background ECoG](/files/Machine_learning_to_predict_clinical_outcomes_from_RNS_background_ECoG.pdf)
 
 "Optimization of Responsive Neurostimulation (RNS)" is a project that aims to provide data-driven guidence to the physicians who examine patients with RNS devices. Specifically, the results of the project will help physicians better understand the patients’ clinical conditions and make better parameter adjustment based on the prediction. 
 
