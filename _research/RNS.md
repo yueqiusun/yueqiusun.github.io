@@ -1,7 +1,7 @@
 ---
 title: "Machine learning to predict clinical outcomes from RNS background ECoG(ongoing)
 "
-excerpt: "<br/><img src='/files/images/EEG1.jpg'>"
+excerpt: "<br/><img src='/files/images/EEG1.png'>"
 collection: 'research'
 permalink: /research/RNS
 venue: "New York University, Department of Neurology"
