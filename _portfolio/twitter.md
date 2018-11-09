@@ -4,6 +4,7 @@ excerpt: "<br/><img src='/files/images/twitter_hate.jpg'>"
 collection: portfolio
 ---
 
+[Automated Hate Speech and Oﬀensive Language Detection](http://yueqiusun.github.io/files/Automated_Hate_Speech_and_Oﬀensive_Language_Detection.pdf.pdf)
 Summary
 ======
 •	Developed a bag of words model to detect and classify hate speech and offensive speech on Twitter to help monitor and filter out extreme tweets more efficiently based on the model. 

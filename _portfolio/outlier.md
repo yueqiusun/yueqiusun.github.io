@@ -18,7 +18,7 @@ The innovation of our project is the algorithm design of MR-AVF. The design is n
 
 
 
-[Null and Outlier Detection in Large Datasets](http://yueqiusun.github.io/files/Final report_outliers.pdf)
+[Null and Outlier Detection in Large Datasets](http://yueqiusun.github.io/files/Final report_outliers.pdf)<br/>
 [Poster](http://yueqiusun.github.io/files/Poster_outliers.pdf)
 
 

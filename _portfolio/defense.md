@@ -11,8 +11,10 @@ We ﬁrst present the methodology for the adversarial attack and the defense sch
 
 
 
-[Alter the Structure of Adversarial Perturbations with Model Agnostic Defense](http://yueqiusun.github.io/files/Alter_the_Structure_of_Adversarial_Perturbations_with_Model_Agnostic_Defense.pdf)
-[Poster](http://yueqiusun.github.io/files/Poster_08.pdf)
+[Alter the Structure of Adversarial Perturbations with Model Agnostic Defense](http://yueqiusun.github.io/files/Alter_the_Structure_of_Adversarial_Perturbations_with_Model_Agnostic_Defense.pdf)<br/>
+
+
+[Poster](http://yueqiusun.github.io/files/poster_08.pdf)
 
 
 
