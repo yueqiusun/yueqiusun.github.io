@@ -1,4 +1,4 @@
----
+sa---
 title: "Alter the Structure of Adversarial Perturbations with Model Agnostic Defense"
 excerpt: "<br/><img src='/files/images/adversarial_img_1.png'>"
 collection: portfolio
