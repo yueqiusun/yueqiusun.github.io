@@ -1,5 +1,5 @@
 ---
-title: "Forming Galaxies using Machine Learning"
+title: "Forming Galaxies using Machine Learning(ongoing)"
 excerpt: "<br/><img src='/files/images/dark1.png'>"
 collection: 'research'
 permalink: /research/dark
