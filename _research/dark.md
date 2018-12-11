@@ -1,15 +1,18 @@
 ---
-title: "Full Hydrodynamic Simulation Prediction from Dark Matter Simulation(ongoing)"
+title: "Forming Galaxies using Machine Learning"
+excerpt: "<br/><img src='/files/images/dark1.png'>"
 collection: 'research'
 permalink: /research/dark
 venue: "Flatiron Institute"
 date: 2018-09-10 - present
 location: "New York, US"
 ---
+Designed a 3D Recurrent Residual Convolutional Neural Network based on U-net models(R2U-net) and 3D Convolutional Neural Nets with inception modules to predict the count of the galaxies in each voxel based on the dark matter density distribution at a given redshift(age).
+
 
 [Poster](http://yueqiusun.github.io/files/1006_poster.pdf)
 
-Method
+<!-- Method
 ======
 Designed 3D Convolution Neural Nets with inception modules with different architectures and 3D R2Unet to predict parameters for Full Hydrodynamic Simulation based on the simulation on dark matter density distribution at a certain redshift (age). 
 Background
@@ -33,5 +36,5 @@ This is a riskier project, but probably have a higher return than most projects 
 The data will be real and complex numbers as a function of frequency (radio frequency) and time. The data set will be astrophysical in nature, but also has interference from tele-communications, radio, TV.
 
 
-The size of the dataset can range from a few TB to a few PB (depending on how much we need to generate realistic mock datasets).
+The size of the dataset can range from a few TB to a few PB (depending on how much we need to generate realistic mock datasets). -->
 
