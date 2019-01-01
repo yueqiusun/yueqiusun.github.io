@@ -11,6 +11,7 @@ Designed a 3D Recurrent Residual Convolutional Neural Network based on U-net mod
 
 
 [Poster](http://yueqiusun.github.io/files/1006_poster.pdf)
+[Forming Galaxies using Machine Learning] (http://yueqiusun.github.io/files/Forming Galaxies using Machine Learning.pdf)
 
 <!-- Method
 ======
