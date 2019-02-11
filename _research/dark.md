@@ -11,8 +11,9 @@ Designed a 3D Recurrent Residual Convolutional Neural Network based on U-net mod
 
 
 [Poster](http://yueqiusun.github.io/files/1006_poster.pdf)
+<!--
 [Forming Galaxies using Machine Learning] (http://yueqiusun.github.io/files/Forming Galaxies using Machine Learning.pdf)
-
+-->
 <!-- Method
 ======
 Designed 3D Convolution Neural Nets with inception modules with different architectures and 3D R2Unet to predict parameters for Full Hydrodynamic Simulation based on the simulation on dark matter density distribution at a certain redshift (age). 
