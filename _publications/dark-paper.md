@@ -2,7 +2,7 @@
 title: "From Dark Matter to Galaxies with Convolutional Networks"
 collection: publications
 permalink: /publication/dark-paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2019-02-03
 venue: 'Journal 1'
 paperurl: 'http://yueqiusun.github.io/files/paper1.pdf'
