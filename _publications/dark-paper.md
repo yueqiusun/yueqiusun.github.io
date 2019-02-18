@@ -1,7 +1,7 @@
 ---
 title: "From Dark Matter to Galaxies with Convolutional Networks"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-1
+permalink: /publication/dark-paper
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-02-03
 venue: 'Journal 1'
