@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student in the Center for Data Science department at NYU. Five years of study in Statistics and Data Science have given me a solid understanding in Computer Vision, Deep Learning, Machine Learning, Bayesian Inference and Data Mining. I am interested in machine learning, computer vision, reinforcement learning and deep adversarial learning. What motivates me to move forward is my eager to constantly explore and learn. I hope to continue learning and exploring and contribute to the development of machine intelligence. 
+I am a graduate student in the Center for Data Science department at NYU. Five years of study in Statistics and Data Science have given me a solid understanding in Machine Learning, Computer Vision, Deep Learning, Reinforcement learning, Statistical Modeling and Data Mining. What motivates me to move forward is my eager to constantly explore and learn. I hope to continue learning and exploring and contribute to the development of machine intelligence. 
 
 
 <!---

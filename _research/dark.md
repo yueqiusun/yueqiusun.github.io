@@ -9,7 +9,7 @@ location: "New York, US"
 ---
 
 
-[PDF](https://arxiv.org/abs/1902.05965)
+[arxiv](https://arxiv.org/abs/1902.05965)
 [Poster](http://yueqiusun.github.io/files/1006_poster.pdf)
 
 
