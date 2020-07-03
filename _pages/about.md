@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student in the Center for Data Science department at NYU. Five years of study in Statistics and Data Science have given me a solid understanding in Machine Learning, Computer Vision, Deep Learning, Reinforcement learning, Statistical Modeling and Data Mining. What motivates me to move forward is my eager to constantly explore and learn. I hope to continue learning and exploring and contribute to the development of machine intelligence. 
+Machine learning / computer vision engineer at OSMO with both research and practical experience in building machine learning models/applications. Passionate about both researching and engineering.
+
+I graduated from NYU with a degree in Data Science and a GPA of 3.89. Relevant coursework include Machine Learning, Deep Learning, Big Data, Inference and Representation and Natural Language Processing with Representation Learning.
+
+My areas of interest include:
+-Machine Learning
+-Computer Vision
+-Reinforcement Learning
+
 
 
 <!---

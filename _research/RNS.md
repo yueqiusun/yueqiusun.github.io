@@ -1,5 +1,5 @@
 ---
-title: "Machine learning to predict clinical outcomes from RNS background ECoG(ongoing)
+title: "Machine learning to predict clinical outcomes from RNS background ECoG
 "
 excerpt: "<br/><img src='/files/images/EEG1.png'>"
 collection: 'research'
