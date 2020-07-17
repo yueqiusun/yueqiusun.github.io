@@ -9,15 +9,7 @@ redirect_from:
 ---
 Machine learning / computer vision engineer at OSMO with both research and practical experience in building machine learning models/applications. Passionate about both researching and engineering.
 
-I graduated from NYU with a degree in Data Science and a GPA of 3.89. Relevant coursework include Machine Learning, Deep Learning, Big Data, Inference and Representation and Natural Language Processing with Representation Learning.
-
-My areas of interest include:
-
--Machine Learning
-
--Computer Vision
-
--Reinforcement Learning
+I graduated from NYU with a degree in Data Science and a GPA of 3.89. I have more than two years of professional experience in Machine Learning, Deep Learning, Computer Vision and Data Science. My academic projects also prepare me for exploring more on NLP, Reinforcement Learning, Recommendation System, Data Engineering, and Adversarial Attack and Defense.
 
 
 
